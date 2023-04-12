@@ -2,6 +2,8 @@
 
 Celo NFT d-App
 
+**[Demo App](https://vercel.com/codekyng/celo-d-app)**
+
 ## Getting started
 
 - Clone the repository by running the command:
