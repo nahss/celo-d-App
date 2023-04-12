@@ -6,7 +6,7 @@ Celo NFT d-App
 
 - Clone the repository by running the command:
 ```bash
-git 
+git clone <name of repo>
 ```
 _Please ensure you have Git installed before running the above command and subsequent commands_
 
