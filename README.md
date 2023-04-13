@@ -2,7 +2,7 @@
 
 Celo NFT d-App
 
-**[Demo App](https://vercel.com/codekyng/celo-d-app)**
+**[Demo App](https://celo-d-app-2ed358.spheron.app/)**
 
 ## Getting started
 
