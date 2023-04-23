@@ -8,7 +8,7 @@ async function main() {
   // Wait for deployment transaction to complete before moving
   await token.deployed();
 
-  console.log("Token contract deployed to:", token.address);
+  
   // Save contract address and ABI 
   saveData(token);
 }

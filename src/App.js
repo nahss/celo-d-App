@@ -23,7 +23,7 @@ function App() {
   const checkWalletStatus = async () => {
     const { ethereum } = window;
     if (!ethereum) {
-      console.log("Metamask not installed");
+      
       return;
     } else { 
       const accounts = await ethereum.request({ method: "eth_accounts" });
@@ -87,7 +87,7 @@ function App() {
         setWalletBalance(bal)
         setNfts(_tokens);
       } else {
-        console.log("Metamask not installed");
+        
       }
     } catch (e) {
       console.log(e);
@@ -131,7 +131,7 @@ function App() {
 
         // Update page with newly minted NFT
         await fetchNfts();
-        console.log("len: ", nfts.length)
+        
       }
     } catch (e) {
       console.log(e);
